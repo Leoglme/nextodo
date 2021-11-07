@@ -1,0 +1,46 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest --watchAll --verbose --silent"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^1.0.1-alpha.52",
+    "autosize": "^5.0.1",
+    "clsx": "^1.1.1",
+    "corejs": "^1.0.0",
+    "next": "^11.1.2",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-dom": "17.0.2",
+    "react-iconly": "^2.2.3",
+    "react-redux": "^7.2.5",
+    "react-scripts": "^4.0.3",
+    "react-test-renderer": "^17.0.2",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@types/jest": "^27.0.2",
+    "babel-jest": "^27.3.1",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "enzyme": "^3.11.0",
+    "jest": "^27.3.0",
+    "react-testing-library": "^8.0.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-mock-store": "^1.5.4"
+  }
+}
