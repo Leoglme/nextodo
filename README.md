@@ -13,7 +13,7 @@
 ![Language](https://img.shields.io/badge/language-redux-purple.svg?style=flat)
 
 
-## [[ Live Demo ]](https://nextodo.dibodev.com)
+## [[ Live Demo ]](https://nextodo.vercel.app)
 
 > Source code for the demo page can be found on the [nextodo repo](https://github.com/leoglme/nextodo)
 
