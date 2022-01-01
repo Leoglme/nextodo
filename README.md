@@ -4,6 +4,8 @@
 
 <h2 align="center">Nextodo</h2>
 
+
+
 <p align="center">
  Todo list app made with next js, redux and react-beautiful-dnd 
 </p>
@@ -12,6 +14,7 @@
 ![Language](https://img.shields.io/badge/language-nextjs-white.svg?style=flat)
 ![Language](https://img.shields.io/badge/language-redux-purple.svg?style=flat)
 
+<img alt="hero" src="https://dibodev-files.s3.eu-west-3.amazonaws.com/react-template-thumbnail.png">
 
 ## [[ Live Demo ]](https://nextodo.vercel.app)
 
